@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  <h1 align="center">Hi 👋, I'm Raju kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from Delhi, India</h3>
-<img align="right" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding">
+<img align="right" width="400" style="margin-bottom:1em" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding">
 
 - 🌱 I’m currently making **ReactJS projects**
 
