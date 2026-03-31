@@ -37,12 +37,6 @@ Here are some ideas to get you started:
 <p align="left"> 
 
 
-<a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer">
-     <img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKDg6BOstpFAIAYZi7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=pandas+logo+png&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=165&iurl=https%3A%2F%2Fwww.guvi.in%2Fblog%2Fwp-content%2Fuploads%2F2023%2F10%2Fpandas-logo-65337c3d6c2ed-1-1200x675.webp&action=click" alt="pandas" width="40" height="40"/> 
-    </a> 
-
-
-
 
  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
