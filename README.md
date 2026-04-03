@@ -1,5 +1,5 @@
 # 🚀 Raju Kumar Sahu  
-### 📊 Data Analyst | SQL | Power BI | Excel | Python  
+### 📊 Data Analyst | SQL Server | Power BI | Excel | Python  
 
 📍 New Delhi, India  
 📧 rsah77598@gmail.com  
@@ -22,7 +22,7 @@ Data Analyst skilled in **data cleaning, EDA, visualization, and dashboarding** 
 ## 📊 Projects  
 
 ### 🔹 ITC Hotels Revenue Analysis  
-- Analyzed **300K+ records** using Python (Pandas, NumPy)  
+- Analyzed **300K+ records** using Python (Pandas, NumPy, Matplotlib)  
 - Performed **EDA, feature engineering, statistical analysis**  
 - Built visualizations to identify **revenue trends & business insights**  
 
@@ -35,9 +35,9 @@ Data Analyst skilled in **data cleaning, EDA, visualization, and dashboarding** 
 - Built dashboard to analyze **employee attrition trends**  
 - Created **data model & interactive filters**  
 
-### 🔹 SQL Music Store Analysis  
+### 🔹 SQL Serve Music Store Analysis  
 - Analyzed **18K+ records across 11 tables**  
-- Used **JOINs, GROUP BY, aggregations**  
+- Used **JOINs, GROUP BY, aggregations, Subquery, CTE, Window Function**  
 - Identified **top customers & revenue insights**  
 
 ---
@@ -49,7 +49,8 @@ B.A – CCS University Meerut (2023)
 
 ## 📜 Certifications  
 - Deloitte Data Analytics Virtual Internship  
-- JavaScript – Great Learning  
+- JavaScript – Great Learning
+- Data Analytics - Delhi School Of Skill Development
 
 ---
 
@@ -59,9 +60,6 @@ To secure a **Data Analyst role** and deliver **data-driven business insights**.
 ---
 
 ## 🔑 Keywords  
-`Data Analyst | SQL | Power BI | Excel | Python | Pandas | NumPy | EDA | Dashboard | Analytics`
+`Data Analyst | SQL Server | Power BI | Excel | Python | Pandas | NumPy | EDA | Dashboard | Analytics`
 
 ---
-
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=kumarrajusahu&show_icons=true)  
