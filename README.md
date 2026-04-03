@@ -1,48 +1,79 @@
-<!--## Hi there 👋-->
+🚀 Raju Kumar Sahu
+📊 Data Analyst | Turning Data into Actionable Insights
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarrajusahu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+👋 About Me
 
-<!--
-**kumarrajusahu/kumarrajusahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate Data Analyst with hands-on experience in Excel, SQL, Power BI, and Python
+📊 Skilled in data visualization, dashboard creation, and exploratory data analysis (EDA)
+📈 Strong ability to convert raw data into meaningful insights for business decision-making
+🎯 Currently preparing for Data Analyst roles & MBA (CAT/MAT aspirant)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![logo]()
-
- <h1 align="center">Hi 👋, I'm Raju kumar sahu</h1>
-<h3 align="center">A passionate frontend developer from Delhi, India</h3>
-<img align="right" width="400" style="margin-bottom:1em" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding">
-
-- 🌱 I’m currently making **ReactJS projects**
-
-- 👨‍💻 All of my projects are available at [https://kumarrajusahu.github.io/RKS_Portfolio/](https://kumarrajusahu.github.io/RKS_Portfolio/)
-
-- 💬 Ask me about **ReactJs**
-
-- 📫 How to reach me **rsah77598@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/raju-kumar-sahu-b90735178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raju-kumar-sahu-b90735178" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+🛠️ Tech Stack
+📌 Languages & Tools
 
 
 
- 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarrajusahu&show_icons=true&locale=en&layout=compact" alt="kumarrajusahu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarrajusahu&show_icons=true&locale=en" alt="kumarrajusahu" /></p>
+
+
+
+📌 Libraries
+
+
+
+
+
+
+📌 Tools
+
+
+
+
+📊 Featured Projects
+🔹 Sales Performance Dashboard
+Built interactive Power BI dashboard with KPI cards, slicers & filters
+Analyzed 15,000+ records to identify revenue trends
+Delivered insights for data-driven decision-making
+🔹 E-commerce Data Analysis
+Performed EDA using Python (Pandas, NumPy)
+Cleaned and transformed raw datasets
+Visualized customer behavior using Matplotlib
+🔹 SQL Business Insights
+Wrote optimized queries using JOINs, GROUP BY, subqueries
+Extracted insights from relational databases
+Improved reporting accuracy and efficiency
+📈 Key Skills
+
+✔ Data Cleaning & Preprocessing
+✔ Exploratory Data Analysis (EDA)
+✔ Dashboard Development
+✔ Data Visualization
+✔ SQL Query Optimization
+✔ Business Intelligence Reporting
+✔ Statistical Analysis
+
+📚 Education
+
+🎓 Bachelor of Arts (B.A) – CCS University Meerut (2023)
+
+📜 Certifications
+
+📌 JavaScript – Great Learning
+📌 Data Analytics (Self Projects + Practice)
+
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/kumarrajusahu"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a> <a href="https://www.linkedin.com/in/raju-kumar-sahu-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:rsah77598@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+🎯 Career Objective
+
+To secure a Data Analyst role where I can apply my analytical skills, technical expertise, and business understanding to deliver impactful insights and drive growth.
+
+🔑 ATS Keywords
+
+Data Analyst | SQL | Power BI | Excel | Python | Pandas | Data Visualization | Dashboard | EDA | Business Intelligence | Analytics | Reporting | Statistics
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumarrajusahu&show_icons=true&theme=default"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrajusahu&layout=compact"/> </p>
+⚡ Fun Fact
+
+📊 “Without data, you're just another person with an opinion.”
