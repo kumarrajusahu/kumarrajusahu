@@ -1,10 +1,5 @@
 # 🚀 Raju Kumar Sahu  
 ### 📊 Data Analyst | Turning Data into Actionable Insights  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kumarrajusahu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👋 About Me  
@@ -12,8 +7,6 @@
 💡 Passionate **Data Analyst** with hands-on experience in **Excel, SQL, Power BI, and Python**  
 📊 Skilled in **data visualization, dashboard creation, and exploratory data analysis (EDA)**  
 📈 Strong ability to convert raw data into **meaningful insights for business decision-making**  
-🎯 Currently preparing for **Data Analyst roles & MBA (CAT/MAT aspirant)**  
-
 ---
 
 ## 🛠️ Tech Stack  
