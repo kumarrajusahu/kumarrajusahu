@@ -1,5 +1,10 @@
 # 🚀 Raju Kumar Sahu  
 ### 📊 Data Analyst | Turning Data into Actionable Insights  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kumarrajusahu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 ## 👋 About Me  
@@ -7,6 +12,8 @@
 💡 Passionate **Data Analyst** with hands-on experience in **Excel, SQL, Power BI, and Python**  
 📊 Skilled in **data visualization, dashboard creation, and exploratory data analysis (EDA)**  
 📈 Strong ability to convert raw data into **meaningful insights for business decision-making**  
+🎯 Currently preparing for **Data Analyst roles & MBA (CAT/MAT aspirant)**  
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -28,26 +35,44 @@
 
 ---
 
-## 📊 Featured Projects  
+## 📊 Projects  
 
-### 🔹 Sales Performance Dashboard  
-- Built interactive **Power BI dashboard** with KPI cards, slicers & filters  
-- Analyzed **15,000+ records** to identify revenue trends  
+### 🔹 ITC Hotels Revenue Analysis (Python | Pandas | NumPy | Matplotlib)  
+- Analyzed **300,000+ hotel booking records** to extract business insights  
+- Performed **data cleaning, transformation, and EDA**  
+- Removed duplicates, handled missing values, and optimized data types  
+- Engineered features: **Revenue/Night, Revenue/Guest, Discount %, High Rating Flag**  
+- Used **Pandas (groupby, aggregation, filtering)** for trend analysis  
+- Applied **NumPy statistics** (mean, median, std, variance, percentiles)  
+- Key insights:  
+  - Luxury hotels generate highest revenue  
+  - Booking channel performance varies  
+  - COVID reduced per-booking revenue  
+  - Discounts have weak correlation with ratings  
+- Built **Matplotlib visualizations** (trends, distributions, performance dashboards)  
+
+---
+
+### 🔹 Sales Performance Dashboard (Power BI + Excel)  
+- Analyzed **15,000+ sales records**  
+- Built interactive dashboard with **KPI cards, slicers, trend charts**  
+- Performed **time-series and category-level analysis**  
 - Delivered insights for **data-driven decision-making**  
 
 ---
 
-### 🔹 E-commerce Data Analysis  
-- Performed **EDA using Python (Pandas, NumPy)**  
-- Cleaned and transformed raw datasets  
-- Visualized customer behavior using **Matplotlib**  
+### 🔹 HR Attrition Analysis Dashboard (Power BI)  
+- Built dashboard to analyze **employee attrition trends**  
+- Created **data model and interactive filters**  
+- Identified key factors affecting attrition  
 
 ---
 
-### 🔹 SQL Business Insights  
-- Wrote optimized queries using **JOINs, GROUP BY, subqueries**  
-- Extracted insights from relational databases  
-- Improved reporting accuracy and efficiency  
+### 🔹 SQL Data Analysis Project | Online Music Store  
+- Analyzed **18,000+ records across 11 tables**  
+- Used **JOINs, GROUP BY, HAVING, aggregations**  
+- Identified **top customers, revenue regions, popular genres**  
+- Transformed raw data into **actionable business insights**  
 
 ---
 
@@ -88,13 +113,13 @@
 
 ## 🎯 Career Objective  
 
-To secure a **Data Analyst role** where I can apply my analytical skills, technical expertise, and business understanding to deliver **impactful insights and drive growth**.
+To secure a **Data Analyst role** where I can apply my analytical skills and deliver **impactful business insights**.
 
 ---
 
 ## 🔑 ATS Keywords  
 
-`Data Analyst | SQL | Power BI | Excel | Python | Pandas | Data Visualization | Dashboard | EDA | Business Intelligence | Analytics | Reporting | Statistics`
+`Data Analyst | SQL | Power BI | Excel | Python | Pandas | NumPy | Data Visualization | Dashboard | EDA | Business Intelligence | Analytics | Reporting | Statistics`
 
 ---
 
