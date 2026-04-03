@@ -2,7 +2,7 @@
 ### 📊 Data Analyst | SQL Server | Power BI | Excel | Python  
 
 📍 New Delhi, India  
-📧 rsah77598@gmail.com  
+📧 rk.sahu.contact@gmail.com  
 🔗 [GitHub](https://github.com/kumarrajusahu) | [LinkedIn](https://www.linkedin.com/in/raju-kumar-sahu-data-analyst/)  
 
 ---
